@@ -1,12 +1,12 @@
 # 🍽️ TasteScape - Capstone Project
 
-**TasteScape** is a full-stack restaurant review platform built as a capstone project by Sudhanshu (IIT Patna). It allows users to explore restaurants, add reviews, and discover popular dishes.
+**TasteScape** is a full-stack restaurant review platform built as a capstone project by ayush (IIT Patna). It allows users to explore restaurants, add reviews, and discover popular dishes.
 
 ---
 
 ## 👨‍🎓 Project Overview
 - **Project Type**: BSc Capstone Project (IIT Patna)
-- **Developer**: Sudhanshu
+- **Developer**: ayush
 - **Stack**: React (Frontend), Flask (Backend), MySQL (Database)
 - **Purpose**: Demonstrate full-stack development skills through a real-world web application
 
@@ -123,7 +123,7 @@ CREATE TABLE dishes (
 ---
 
 ## 🧑‍💻 Author
-**Sudhanshu**  
+**ayush**  
 Student, BSc Program  
 IIT Patna  
 Email: sudhanshu_24a12res1120@iitp.ac.in
